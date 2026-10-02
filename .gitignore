@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iws
+*.iml
+*.ipr
+reports/
+screenshots/
+.vscode/
+.DS_Store
